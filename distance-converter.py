@@ -1,5 +1,6 @@
 # Distance converter from meter to km and km to meter
 
+print('Hi!')
 ops = input('km or m? ')
 value = int(input('Value: '))
 
